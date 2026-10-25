@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-25",
+  "notice": {
+    "en": "Meta updated Ads Manager in October 2026. Placement exclusions now live at account level, and new ad terms apply from 30 October. Check each step against your screen.",
+    "ml": "Meta 2026 ഒക്ടോബറിൽ Ads Manager പുതുക്കി. Placement ഒഴിവാക്കൽ ഇപ്പോൾ അക്കൗണ്ട് തലത്തിലാണ്, പുതിയ പരസ്യ നിബന്ധനകൾ ഒക്ടോബർ 30 മുതൽ ബാധകം. ഓരോ ഘട്ടവും സ്ക്രീനുമായി ഒത്തുനോക്കുക.",
+    "hi": "Meta ने अक्टूबर 2026 में Ads Manager अपडेट किया। Placement हटाना अब अकाउंट स्तर पर है, और नई विज्ञापन शर्तें 30 अक्टूबर से लागू हैं। हर कदम को अपनी स्क्रीन से मिलाकर देखें।",
+    "ta": "Meta 2026 அக்டோபரில் Ads Manager-ஐ புதுப்பித்தது. Placement நீக்கம் இப்போது கணக்கு நிலையில் உள்ளது, புதிய விளம்பர விதிமுறைகள் அக்டோபர் 30 முதல் பொருந்தும். ஒவ்வொரு படியையும் உங்கள் திரையுடன் ஒப்பிடுங்கள்."
+  },
+  "objectives": {
+    "aware": {
+      "obj": "Awareness, then choose Brand awareness (or Reach).",
+      "cta": "Learn more"
+    },
+    "traffic": {
+      "obj": "Traffic, then choose where people should land: Instagram profile, Website, WhatsApp or Calls.",
+      "cta": "Learn more"
+    },
+    "engage": {
+      "obj": "Engagement, then choose Messaging apps to WhatsApp (or Video views / Post engagement).",
+      "cta": "WhatsApp message"
+    },
+    "leads": {
+      "obj": "Leads, then choose Instant forms, Messaging apps (WhatsApp) or Calls.",
+      "cta": "Sign up / Call now"
+    },
+    "app": {
+      "obj": "App promotion, then choose your app and its store (Google Play or App Store).",
+      "cta": "Install now"
+    },
+    "sales": {
+      "obj": "Sales (needs a website or catalog with the Pixel set up). Without one, use Engagement to WhatsApp.",
+      "cta": "Shop now"
+    }
+  }
+}
